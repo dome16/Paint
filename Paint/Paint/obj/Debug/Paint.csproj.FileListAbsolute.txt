@@ -1,0 +1,10 @@
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\bin\Debug\Paint.exe.config
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\bin\Debug\Paint.exe
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\bin\Debug\Paint.pdb
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\obj\Debug\Paint.exe
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\obj\Debug\Paint.pdb
+\\v0t0020a.adr.admin.ch\vdiuser$\A80852149\data\Documents\C#\Paint\Paint\obj\Debug\Paint.TPanel.resources
